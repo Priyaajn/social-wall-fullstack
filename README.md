@@ -1,12 +1,15 @@
-# React + Vite
+# 🌐 Social Wall - Full Stack MERN Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **Social Wall** is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to create and view social posts in a simple, interactive feed-style UI. This project demonstrates the integration of frontend and backend technologies to build a basic social media wall.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
 
-## Expanding the ESLint configuration
+- 📝 Add and share posts easily.
+- 🗂️ All posts are stored securely in MongoDB.
+- 🔄 Real-time UI updates without page reload.
+- 🔗 RESTful API integration using Express and Axios.
+- ⚙️ Clean folder structure for scalability.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
